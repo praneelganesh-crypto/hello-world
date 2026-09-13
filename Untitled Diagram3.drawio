@@ -1,107 +1,720 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36">
-  <diagram id="kgpKYQtTHZ0yAKxKKP6v">
-    <mxGraphModel dx="1223" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="4407" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="PERK UP WITH A LATTE" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="100" y="70" width="670" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-7" target="3nuBFxr9cyL0pnOWT2aG-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="Customer" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry y="40" width="670" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="Feel tired" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="40" width="130" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
-          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="Find barista" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
-          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Make transaction" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="170" width="370" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="Request latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
-          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-10" value="Buy latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
-          <mxGeometry x="150" y="120" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="Feel perky" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
-          <mxGeometry x="540" width="130" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" source="3nuBFxr9cyL0pnOWT2aG-13" target="3nuBFxr9cyL0pnOWT2aG-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-13" value="Drink latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
-          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
-          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-15" value="Barista" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry y="220" width="670" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
-          <mxGeometry x="40" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-17" value="Greet customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
-          <mxGeometry x="20" y="20" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-18" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
-          <mxGeometry x="170" width="370" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" source="3nuBFxr9cyL0pnOWT2aG-20" target="3nuBFxr9cyL0pnOWT2aG-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-20" value="Accept&lt;br&gt;payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
-          <mxGeometry x="150" y="20" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-21" value="Write details&lt;br&gt;on cup" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
-          <mxGeometry x="20" y="10" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-22" value="Make latte" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
-          <mxGeometry x="260" y="20" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-23" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
-          <mxGeometry x="540" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-17" target="3nuBFxr9cyL0pnOWT2aG-9" edge="1">
+        <mxCell id="N1ONewKwt8HBP180WBOM-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-2" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="260" />
-              <mxPoint x="160" y="180" />
-            </Array>
+            <mxPoint x="-5" y="297.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-9" target="3nuBFxr9cyL0pnOWT2aG-21" edge="1">
+        <mxCell id="N1ONewKwt8HBP180WBOM-5" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-21" target="3nuBFxr9cyL0pnOWT2aG-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="300" y="260" />
-              <mxPoint x="300" y="180" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="N1ONewKwt8HBP180WBOM-2" parent="1" style="shape=mxgraph.pid.vessels.settling_tank;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="80" width="100" x="35" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-10" target="3nuBFxr9cyL0pnOWT2aG-20" edge="1">
+        <mxCell id="N1ONewKwt8HBP180WBOM-16" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-22" target="3nuBFxr9cyL0pnOWT2aG-13" edge="1">
+        <mxCell id="N1ONewKwt8HBP180WBOM-4" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="175" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-6" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="50" x="-55" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-18" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-9" parent="1" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.separators.separator_(electrostatic_precipitator);" value="" vertex="1">
+          <mxGeometry height="120" width="80" x="455" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-17" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-11" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="335" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-19" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-13" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="595" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-21" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-15" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.dryer;" value="" vertex="1">
+          <mxGeometry height="100" width="80" x="765" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="297" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-25" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="260" />
-              <mxPoint x="530" y="120" />
+              <mxPoint x="-20" y="660.06" />
+              <mxPoint x="-20" y="660.06" />
             </Array>
+            <mxPoint x="-50" y="660" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-36" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-25" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="60" x="50" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-45" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-29" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="430" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-37" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-30" parent="1" style="shape=mxgraph.pid.vessels.tank,_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="150" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="155" y="630" as="sourcePoint" />
+            <mxPoint x="245" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-32" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="644.41" as="sourcePoint" />
+            <mxPoint x="240" y="644.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-40" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-34" parent="1" style="shape=mxgraph.pid.vessels.container,_tank,_cistern_(bottom);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="290" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-38" parent="1" style="shape=mxgraph.pid.agitators.agitator_(cross-beam);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="120" width="80" x="300" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-46" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-41" parent="1" style="shape=mxgraph.pid.vessels.tank,_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="570" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="640" as="sourcePoint" />
+            <mxPoint x="655" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="650" as="sourcePoint" />
+            <mxPoint x="660" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-48" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-44" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.dryer;" value="" vertex="1">
+          <mxGeometry height="100" width="80" x="700" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-51" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-50" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14.469999999999999" y="1039" />
+              <mxPoint x="-14.469999999999999" y="1042.06" />
+            </Array>
+            <mxPoint x="-60" y="1039" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-55" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-50" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="60" x="30" y="994" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-57" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-52" parent="1" style="shape=mxgraph.pid.vessels.tank,_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="140" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="145" y="1040" as="sourcePoint" />
+            <mxPoint x="235" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-54" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="1054.4099999999999" as="sourcePoint" />
+            <mxPoint x="230" y="1054.4099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-59" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-56" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="290" y="994" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-61" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-58" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.column;columnType=fluid" value="" vertex="1">
+          <mxGeometry height="120" width="50" x="440" y="1004" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-65" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-60" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="550" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-67" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-62" parent="1" style="shape=mxgraph.pid.vessels.tank,_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="70" width="100" x="650" y="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="665" y="1057" as="sourcePoint" />
+            <mxPoint x="735" y="1057" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-64" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="1067" as="sourcePoint" />
+            <mxPoint x="740" y="1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-69" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1064" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-66" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.dryer;" value="" vertex="1">
+          <mxGeometry height="100" width="80" x="800" y="1014" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-79" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-71" parent="1" style="shape=mxgraph.pid.vessels.container,_tank,_cistern_(bottom);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="7.5" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-72" parent="1" style="shape=mxgraph.pid.agitators.agitator_(cross-beam);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="120" width="80" x="17.5" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-77" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-72.5" y="1468.82" as="sourcePoint" />
+            <mxPoint x="7.5" y="1468.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-83" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-78" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="177.5" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-81" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-71" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="1640" />
+            </Array>
+            <mxPoint x="-40" y="1640" as="sourcePoint" />
+            <mxPoint x="70.0714285714289" y="1518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CASCADE" vertex="1">
+          <mxGeometry height="60" width="120" x="-165" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-85" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-82" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="367.5" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-232" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-84" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="60" x="497.5" y="1422" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-91" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-90" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-88" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="615" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-93" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-90" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.dryer;" value="" vertex="1">
+          <mxGeometry height="100" width="80" x="765" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-96" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-95" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="1928" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-98" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-95" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="60" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-100" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-99" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-97" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="110" y="1870" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-106" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-101" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-99" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="260" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-107" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-101" parent="1" style="shape=mxgraph.pid.vessels.mixing_reactor;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="96" width="60" x="380" y="1892" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-179" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-178" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-102" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="510" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-109" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-104" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-110" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N1ONewKwt8HBP180WBOM-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-104" parent="1" style="shape=mxgraph.pid.driers.drying_oven,_drying_chamber,_shelf_dryer;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
+          <mxGeometry height="140" width="100" x="800" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-105" parent="1" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.dryer;" value="" vertex="1">
+          <mxGeometry height="100" width="80" x="965" y="1892" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="StTAGE 1 acetylation of 4-hydroxyindole" vertex="1">
+          <mxGeometry height="100" width="340" x="-470" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FEED&lt;div&gt;4-hydroxyindole, DCM, Pyridine, Acetic Anhydride&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="-215" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-101" vertex="1">
+          <mxGeometry height="30" width="60" x="-65" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-101" vertex="1">
+          <mxGeometry height="30" width="60" x="55" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-101" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E-101" vertex="1">
+          <mxGeometry height="30" width="60" x="345" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CR-101" vertex="1">
+          <mxGeometry height="30" width="60" x="465" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-102" vertex="1">
+          <mxGeometry height="30" width="60" x="615" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DR-101" vertex="1">
+          <mxGeometry height="30" width="60" x="775" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="To STAGE 2" vertex="1">
+          <mxGeometry height="30" width="80" x="930" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-126" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="154" y="310" as="sourcePoint" />
+            <mxPoint x="154" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-127" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413.33000000000004" y="310" as="sourcePoint" />
+            <mxPoint x="413.33000000000004" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-128" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="729" y="310" as="sourcePoint" />
+            <mxPoint x="729" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-129" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="135" y="660" as="sourcePoint" />
+            <mxPoint x="135" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-130" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="269" y="520" as="sourcePoint" />
+            <mxPoint x="269" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-131" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="684" y="660" as="sourcePoint" />
+            <mxPoint x="684" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-132" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-20" y="530" as="sourcePoint" />
+            <mxPoint x="-20" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-133" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-50" y="909" as="sourcePoint" />
+            <mxPoint x="-50" y="1029" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-134" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="930" as="sourcePoint" />
+            <mxPoint x="270" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-136" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="1080" as="sourcePoint" />
+            <mxPoint x="630" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-137" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="457.5" y="1490" as="sourcePoint" />
+            <mxPoint x="457.5" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-138" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="745" y="1490" as="sourcePoint" />
+            <mxPoint x="745" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-140" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-52" y="1800" as="sourcePoint" />
+            <mxPoint x="-52" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-141" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="228.32999999999998" y="1950" as="sourcePoint" />
+            <mxPoint x="228.32999999999998" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-142" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="940" y="1970" as="sourcePoint" />
+            <mxPoint x="940" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-102" vertex="1">
+          <mxGeometry height="30" width="60" x="47.5" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-102" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-103" vertex="1">
+          <mxGeometry height="30" width="60" x="307.5" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-103" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DR-102" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-103" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="To STAGE 3" vertex="1">
+          <mxGeometry height="30" width="127.5" x="827.5" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-104" vertex="1">
+          <mxGeometry height="30" width="60" x="27.5" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-104" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-104" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AD-101" vertex="1">
+          <mxGeometry height="30" width="60" x="435" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E-102" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="964" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-105" vertex="1">
+          <mxGeometry height="30" width="60" x="680" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DR-103" vertex="1">
+          <mxGeometry height="30" width="60" x="810" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-105" vertex="1">
+          <mxGeometry height="30" width="60" x="27.5" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-106" vertex="1">
+          <mxGeometry height="30" width="60" x="197.5" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E-103" vertex="1">
+          <mxGeometry height="30" width="60" x="367.5" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-106" vertex="1">
+          <mxGeometry height="30" width="60" x="497.5" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-107" vertex="1">
+          <mxGeometry height="30" width="60" x="635" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DR-104" vertex="1">
+          <mxGeometry height="30" width="60" x="775" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-170" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R-107" vertex="1">
+          <mxGeometry height="30" width="60" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-108" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E-104" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="1862" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-173" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="V-106" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-109" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CR-103" vertex="1">
+          <mxGeometry height="30" width="60" x="665" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F-110" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-178" parent="1" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.separators.separator_(electrostatic_precipitator);" value="" vertex="1">
+          <mxGeometry height="120" width="80" x="660" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DR-105" vertex="1">
+          <mxGeometry height="30" width="60" x="975" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="To STAGE 4" vertex="1">
+          <mxGeometry height="30" width="100" x="960" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="To STAGE 5" vertex="1">
+          <mxGeometry height="30" width="100" x="897.5" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 2 Carbonylation and Dimethylarbamoylformation" vertex="1">
+          <mxGeometry height="70" width="415" x="-500" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 3 Reduction to Psilocin" vertex="1">
+          <mxGeometry height="100" width="245" x="-422.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-185" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 4 Cryogenic Phosphorylation and Benzoyl Protection&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="325" x="-462.5" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 5 Hydrogen deprotection &amp;nbsp;+ STAGE 6 Purification and Controlled Crystallization &amp;nbsp;" vertex="1">
+          <mxGeometry height="160" width="300" x="-450" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product: 1 kg/batch" vertex="1">
+          <mxGeometry height="30" width="60" x="1060" y="1925" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Acetylation Reactor&lt;div&gt;0 C&lt;/div&gt;&lt;div&gt;1atm&lt;/div&gt;&lt;div&gt;Water added&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-60" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wash in Settler&lt;div&gt;20 - 25 C&lt;/div&gt;&lt;div&gt;1 atm&lt;br&gt;&lt;div&gt;Citric acid and NAHCO3 Wash&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="55" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aqueous Waste" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Drying Filter&lt;div&gt;20 - 25 C&lt;/div&gt;&lt;div&gt;1 atm&lt;br&gt;&lt;div&gt;MgSO4 Removal&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="67.5" x="200" y="409" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Evaporator&lt;div&gt;Partial DCM Strip&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="335" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DCM to Recovery" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-194" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Precipitator&lt;div&gt;1 atm heptane&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="465" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Filter&lt;div&gt;and Wash with heptane&lt;/div&gt;&lt;div&gt;15 - 25 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="615" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-196" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DCM filtrate to Waste" vertex="1">
+          <mxGeometry height="30" width="60" x="705" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Dryer&lt;div&gt;60 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="775" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-198" edge="1" parent="1" source="N1ONewKwt8HBP180WBOM-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N1ONewKwt8HBP180WBOM-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-199" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Oxalyl Chloride" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="From STAGE 1" vertex="1">
+          <mxGeometry height="30" width="100" x="-155" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-201" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Carbonylation Reactor&lt;div&gt;35 - 40 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;THF 1 vol: TBME 6 vol&lt;/div&gt;&lt;div&gt;oxalic chloride 1.5 eq&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="35" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CO/CO2/HCl to Scrubber" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Precipitation&lt;div&gt;20 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;heptane wash&lt;/div&gt;&lt;div&gt;and liquor decanted&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="170" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-204" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dimethylamine" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-205" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Amidation Reactor&lt;div&gt;-20 C to -10 C then to 20 C&lt;/div&gt;&lt;div&gt;1 atm, TBME&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="310" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-206" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Filter&amp;nbsp;&lt;div&gt;20 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-207" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Slurry Wash Vessel&lt;div&gt;20 C&lt;/div&gt;&lt;div&gt;1atm&lt;/div&gt;&lt;div&gt;Water then IPA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aqueous/ IPA wash to waste" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-209" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Dryer&lt;div&gt;60 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-210" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LiAlH4 in THF" vertex="1">
+          <mxGeometry height="30" width="60" x="-80" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="From STAGE 2" vertex="1">
+          <mxGeometry height="30" width="100" x="-185" y="1027" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-212" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reduction Reactor&lt;div&gt;20-25 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;THF reflux&lt;/div&gt;&lt;div&gt;N2, dry for 16 h&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="67.5" x="27.5" y="1128" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Quench Vessel&amp;nbsp;&lt;div&gt;0-20 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;cetone 9.3 eq then citric acid, pH &amp;gt; 11&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="67.5" x="160" y="1138" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-214" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Salt Filter&lt;div&gt;20 C&lt;br&gt;&lt;div&gt;1 atm&lt;br&gt;&lt;div&gt;&lt;div&gt;Li/Al Solids&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="307.5" y="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-215" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="H2 vent to safe location&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-216" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Li/Al salt cake to hazardous waster after THF reslurry and second filtration" vertex="1">
+          <mxGeometry height="50" width="80" x="335" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-217" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Silica guard bed&lt;div&gt;20 C&lt;/div&gt;&lt;div&gt;&amp;nbsp;atm&lt;/div&gt;&lt;div&gt;3 eq wrt Stage 2 charge&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="435" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-218" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Evaporator&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;THF removal&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="1128" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-219" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="THF to recovery" vertex="1">
+          <mxGeometry height="30" width="60" x="605" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Slurry&amp;nbsp;&lt;div&gt;20 C&amp;nbsp;&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;iPrOAc : TBME&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="670" y="1124" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Dryer&amp;nbsp;&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="810" y="1134" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-222" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="From STAGE 3" vertex="1">
+          <mxGeometry height="30" width="110" x="-195" y="1455" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-226" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cryogenic Phosphorylation&amp;nbsp;&lt;div&gt;-50 to -60 C&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;N2, THF, NaHMDS 1.13 eq then TBPP 2.26 eq&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="17.5" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-227" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RF-101" vertex="1">
+          <mxGeometry height="30" width="60" x="-140" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-228" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cascade Refrigeration" vertex="1">
+          <mxGeometry height="30" width="60" x="-135" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-229" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cold Filter&amp;nbsp;&lt;div&gt;0 C&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;8 vol THF wash on phosphate salts&lt;/div&gt;&lt;div&gt;byproduct solids&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="180" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Evaporator&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;MeOH/ water strip&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="60" x="370" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="THF to recovery" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stir out and crystallization vessel&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;overnight&amp;nbsp;&lt;/div&gt;&lt;div&gt;concentrate to 6-8 vol&lt;/div&gt;&lt;div&gt;Intermediate 4A to Stage 4&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="470" y="1535" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-234" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Filter&amp;nbsp;&lt;div&gt;0-5 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="635" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="THF filtrate, contains Stagee 4 product, to solvent recovery" vertex="1">
+          <mxGeometry height="70" width="100" x="695" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-236" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Oven&amp;nbsp;&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;THF wash&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="765" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-237" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="375" y="1144" as="sourcePoint" />
+            <mxPoint x="375" y="1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-238" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="H2 supply&lt;div&gt;N2 purge&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-80" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-239" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="From STAGE 4" vertex="1">
+          <mxGeometry height="30" width="100" x="-195" y="1913" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-240" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;25 C under H2, then N2, warm 40 C / approx. 1 atm / MeOH 20 vol, 10% Pd/C 50% water-wet&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="-30" y="1986" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-241" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Celite Filter&lt;div&gt;0 C&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pd/C removal&lt;/div&gt;&lt;div&gt;washed with 13.3 vol MeOH and 6.7 vol water&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="97.5" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Evaporator&lt;div&gt;40 C&lt;/div&gt;&lt;div&gt;MeOH/ Water Strip azeotrope with ethanol&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="255" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-245" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dissolution Vessel&lt;div&gt;80 C&lt;/div&gt;&lt;div&gt;1 atm&amp;nbsp;&lt;/div&gt;&lt;div&gt;2-15 vol purified water&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="375" y="2016" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-246" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Polish Filter&lt;div&gt;75-80 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;ine pore, heated&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="67.5" x="530" y="2055" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-247" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Seeded Cooling Crystallizer&lt;div&gt;Seed Hydrate A at 68-70 C, 450 rpm, cool 10 C/hr to 5 C&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="665" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-248" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Product Filter&amp;nbsp;&lt;div&gt;5 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;&lt;div&gt;purified water wash&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="810" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-249" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="mother liquor&lt;div&gt;(approx 25% of psilocybin in feed)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="900" y="2100" as="geometry" />
+        </mxCell>
+        <mxCell id="N1ONewKwt8HBP180WBOM-250" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vacuum Dryer and DEA Controlled Vault&lt;div&gt;dry 50 C, 30 hr, vac Hydrate A to Polymorph A&amp;nbsp;&lt;/div&gt;&lt;div&gt;storage 20 C, 1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="950" y="2010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
