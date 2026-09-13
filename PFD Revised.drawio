@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="JKyFU8-w-WtgmFoQZY6t">
-    <mxGraphModel dx="2771" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,6 +818,9 @@
         </mxCell>
         <mxCell id="PnyulH9qArHTAbR8YBh3-228" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontColor=light-dark(default, #ff2600);" value="Improvement 2 Palladium Recovery from Spent Stage 5 Catalyst" vertex="1">
           <mxGeometry height="130" width="260" x="240" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="PnyulH9qArHTAbR8YBh3-229" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontColor=light-dark(default, #ff2600);" value="Solvent Recovery Column&lt;div&gt;reboiler 70-110 C&lt;/div&gt;&lt;div&gt;condenser 20 C&lt;/div&gt;&lt;div&gt;1 atm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="132.5" x="1226" y="2450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
